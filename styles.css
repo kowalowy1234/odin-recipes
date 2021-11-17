@@ -1,0 +1,22 @@
+img {
+    height: auto;
+    width: 800px;
+}
+
+body {
+    background-color: #c5f7c5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.main-menu {
+    font-size: 20px;
+}
+
+.home-page {
+    font-size: 24px;
+    font-family: Helvetica, Arial, sans-serif;
+}
